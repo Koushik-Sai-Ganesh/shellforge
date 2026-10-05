@@ -1,0 +1,15 @@
+# Compiled executable
+shellforge
+echo
+
+# Object files
+*.o
+
+# Debug/generated files
+src/tokens
+
+# Windows downloaded-file metadata
+*:Zone.Identifier
+
+# Temporary files
+*.tmp
